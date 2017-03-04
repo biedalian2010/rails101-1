@@ -19,6 +19,19 @@ class PostsController < ApplicationController
     end
   end
 
+    def update
+
+    end
+
+    def edit
+
+    end
+
+    def delete
+
+    end
+
+
   private
 
   def post_params
